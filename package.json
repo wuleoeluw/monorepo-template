@@ -20,7 +20,7 @@
     "@monorepo/config-eslint": "workspace:*",
     "@monorepo/config-prettier": "workspace:*",
     "@monorepo/config-tsconfig": "workspace:*",
-    "@types/node": "^20",
+    "@types/node": "^25",
     "eslint": "^9",
     "husky": "^9.1.7",
     "lint-staged": "^15.5.0",
